@@ -1,0 +1,28 @@
+ .cell{
+   margin-left: 30px;
+    margin-top: 40px;
+ }
+ .type{
+    width: 650px;
+ }
+ .bii{
+    background-color: rgb(41, 218, 47);
+    margin-left: -20px;
+    font-size: 20px;
+    padding: 10px;
+    color: #fff;
+ }
+ .box{
+    width: 360px;
+    height: 70px;
+    background-color: gray;
+    margin-top: 30px;
+ }
+ .biiii{
+    font-size: 40px;
+    color: red;
+    padding: 10px;
+ }
+ .bas{
+   font-size: 22px;
+ }
